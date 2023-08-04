@@ -9,3 +9,5 @@ Start Script - npm run dev <br> <br>
 **/api/customers/ - Customer Related API's** <br>
 **/api/orders/ - Order Related API's** <br>
 **/api-docs/ - Swagger Docs** <br>
+
+NOTE - When I started the development of the backend code, there was no mention of typescript in it. Hence, it is purely JavaScript as of now.
